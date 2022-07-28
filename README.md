@@ -24,3 +24,7 @@ This is my final frt project.
 
 ## Contact Us
 ![2022-07-28 (9)](https://user-images.githubusercontent.com/96943198/181520795-080a8fe3-4f83-42d0-b4ec-b652940fa2c9.png)
+
+
+## Azure Portal Screenshot
+![2022-07-28 (10)](https://user-images.githubusercontent.com/96943198/181522852-ff48ead9-f2a7-4871-aaf8-4a8fb5567020.png)
